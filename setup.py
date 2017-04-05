@@ -59,7 +59,7 @@ PYTHON_REQUIREMENTS = [
 ]
 REMOTE_MAVEN_PACKAGES = [
         # (group id, artifact id, version),
-        ('com.amazonaws', 'amazon-kinesis-client', '1.7.2'),
+        ('com.amazonaws', 'amazon-kinesis-client', '1.7.4'),
         ('com.amazonaws', 'aws-java-sdk-dynamodb', '1.11.14'),
         ('com.amazonaws', 'aws-java-sdk-s3', '1.11.14'),
         ('com.amazonaws', 'aws-java-sdk-kms', '1.11.14'),
